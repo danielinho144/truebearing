@@ -5,9 +5,9 @@ Use this to self-check progress. Each week lists what should actually build, run
 ---
 
 **Week 1 — Setup + Synthetic Data**
-- [ ] Repo initialized, `.gitignore` in place, first commit pushed
-- [ ] `CMakeLists.txt` builds an empty `main.cpp` successfully
-- [ ] Python venv created, `requirements.txt` installs cleanly
+- [X] Repo initialized, `.gitignore` in place, first commit pushed
+- [X] `CMakeLists.txt` builds an empty `main.cpp` successfully
+- [X] Python venv created, `requirements.txt` installs cleanly
 - [ ] Synthetic IMU+GPS data generator runs and outputs a CSV/log for a simple straight-line path
 
 **Week 2 — Sensor Pipeline + Fusion Core**
